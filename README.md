@@ -1,5 +1,7 @@
 # CryptoClustering
+
 Project Overview
+
 This project demonstrates how to use the K-Means clustering algorithm to analyze stock pricing data, specifically focusing on the relationship between trading volume and the spread between the high and low trading prices. The project also utilizes the elbow method to determine the optimal number of clusters (k) to segment the data effectively.
 
 Objectives
